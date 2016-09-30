@@ -1,9 +1,12 @@
 #include <iostream>
 
 using namespace std;
-
 int main()
 {
-    cout << "Hello world!" << endl;
+   int a;
+   int b;
+    cout << "Vvedite dva chisla" << endl;
+    cin >> a;
+    cin >> b;
     return 0;
 }
